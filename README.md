@@ -6,6 +6,8 @@ Clarus the Dogcow for your Tidbyt!
  - A copy of [Pixlet](https://tidbyt.dev/docs/build/installing-pixlet)
 
 ### What does it look like?
+![tidbyt-dogcow](https://github.com/smallsco/tidbyt-dogcow/assets/1906551/894fa81f-1f87-4b2c-8e2a-3daaa801145f)
+
 
 
 ### Try it in your browser
